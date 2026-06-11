@@ -1,3 +1,7 @@
+# Black–Scholes Empirical Study
+
+Black–Scholes option pricing and implied volatility analysis using real market option data.
+
 ## Project Motivation
 
 This project started as an attempt to better understand how theoretical option pricing models relate to real market data.
