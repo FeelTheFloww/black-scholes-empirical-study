@@ -1,5 +1,7 @@
 # Black–Scholes Empirical Study
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Black–Scholes option pricing and implied volatility analysis using real market option data.
 
 ## Project Motivation
@@ -177,3 +179,17 @@ Possible extensions include:
 - stochastic volatility models (Heston)
 - smile parameterization (SVI / SABR)
 - calibration of models to market data
+
+---
+
+## 🗺️ Roadmap
+
+- [ ] Greeks computation (Δ, Γ, ν, Θ, ρ) and visualization across strikes
+- [ ] Dividend-adjusted pricing for index options
+- [ ] 3D implied volatility surface (strike × maturity)
+- [ ] Systematic put–call parity violation study across underlyings
+- [ ] Historical vs. implied volatility comparison
+
+## License
+
+[MIT](LICENSE)
